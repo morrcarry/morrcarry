@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morrcarry" alt="morrcarry" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+
 
 - 💬 Ask me about **JavaScript, React and MongoDB**
 
-- 📫 How to reach me **mudits423@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FT-B-2XzYZ5vF77A8caS12b0Lz573V2f/view?usp=sharing](https://drive.google.com/file/d/1FT-B-2XzYZ5vF77A8caS12b0Lz573V2f/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny.**
 
